@@ -4,3 +4,6 @@
 2. Перекиньте QuickNet.exe в пустую папку с латинскими символами.
 3. Запустите QuickNet.exe от им. Администратора.
 Enjoy
+
+ВАЖНО!
+Если у вас не грузит стим или твич(зависит от провайдера), то в list-general.txt удалите все упоминания twitch и steam(api.twitch.tv, steampowered etc.)
